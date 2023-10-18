@@ -40,12 +40,3 @@ After installation of the Supabase integration, all relevant environment variabl
 The above will also clone the Starter kit to your GitHub, you can clone that locally and develop locally.
 
 If you wish to just develop locally and not deploy to Vercel, [follow the steps below](#how-to-use).
-
-### Create a Supabase client
-
-Check out the [`/app/_examples`](./app/_examples/) folder for an example of creating a Supabase client in:
-
-- [Client Components](./app/_examples/client-component/page.tsx)
-- [Server Components](./app/_examples/server-component/page.tsx)
-- [Route Handlers](./app/_examples/route-handler/route.ts)
-- [Server Actions](./app/_examples/server-action/page.tsx)
